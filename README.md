@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+# Kush H. Yagnik
+# I'm a senior at UT Austin studying psychology
+# While I like psychology, my passion is cars and different vehicles. I like designing and modifying different cars regardless of the build. This includes ECU modifications as well as body modifications.
 <!--
 **OutPizzaTheHutt/OutPizzaTheHutt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
